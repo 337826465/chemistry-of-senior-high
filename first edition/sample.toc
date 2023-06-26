@@ -1,0 +1,15 @@
+\contentsline {section}{Impact Statement}{2}{}%
+\contentsline {section}{物质及其变化}{2}{}%
+\contentsline {subsection}{物质的分类}{2}{}%
+\contentsline {subsection}{同素异形体}{2}{}%
+\contentsline {subsection}{氧化物}{2}{}%
+\contentsline {subsubsection}{Insert C head here}{2}{}%
+\contentsline {section}{Equations}{2}{}%
+\contentsline {section}{Figures \& Tables}{3}{}%
+\contentsline {section}{Conclusion}{3}{}%
+\contentsline {section}{Acknowledgement}{3}{}%
+\contentsline {paragraph}{Funding Statement}{3}{}%
+\contentsline {paragraph}{Competing Interests}{3}{}%
+\contentsline {paragraph}{Data Availability Statement}{3}{}%
+\contentsline {section}{Notes}{3}{}%
+\contentsline {section}{Example Appendix Section}{3}{}%
