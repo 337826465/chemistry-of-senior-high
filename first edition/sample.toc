@@ -11,5 +11,5 @@
 \contentsline {paragraph}{Funding Statement}{3}{}%
 \contentsline {paragraph}{Competing Interests}{3}{}%
 \contentsline {paragraph}{Data Availability Statement}{3}{}%
-\contentsline {section}{Notes}{3}{}%
+\contentsline {section}{Notes}{4}{}%
 \contentsline {section}{Example Appendix Section}{4}{}%

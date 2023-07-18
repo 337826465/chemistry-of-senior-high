@@ -556,7 +556,7 @@
 }
 \pagestyle{plain}
 \newcommand*\cup@copyright@notice{\scriptsize%
-  \textcopyright\ Cambridge University Press \cup@year. 
+  \textcopyright\ Cambridge University Preess \cup@year. 
   This is an Open Access article, distributed under the terms of the 
   Creative Commons Attribution licence (\url{http://creativecommons.org/licenses/by/4.0/}), 
   which permits unrestricted re-use, distribution, and reproduction in any medium, 
@@ -1269,7 +1269,7 @@
           \par
         }%
         \vspace*{\cup@space@inter@extra}%
-        \textbf{www.cambridge.org}\par%
+        \textbf{www.hailiangedu.com}\par%
         \vspace*{3\cup@space@inter@extra}%
         {\large\bfseries\color{structure@color}\xmakefirstuc{\cup@manuscript}\par}%
         \vspace*{\cup@space@inter@extra}%
@@ -1415,7 +1415,7 @@
   \cup@layout@medium
 }%
 \def\cup@jnl@large{%
-  \def\cup@journal@name{Cambridge Large One}
+  \def\cup@journal@name{宁海海亮教育}
   \cup@layout@large
   \patch@numeric@authors
 }
@@ -1446,10 +1446,10 @@
   \patch@numeric@authors
   \patchcmd{\@maketitle}
     {\includegraphics[width=\linewidth]{cup-logo-new}}
-    {\journalnamefont\upshape\normalsize\bfseries cambridge.org}
+    {\journalnamefont\upshape\normalsize\bfseries hailiangedu.com}
     {}{}
   \patchcmd{\@maketitle}
-    {\textbf{www.cambridge.org}}
+    {\textbf{www.hailiangedu.com}}
     {\includegraphics[width=\linewidth]{cup-logo-new}}
     {}{}
   \renewcommand{\email}[2][]{%
@@ -1484,10 +1484,10 @@
   \patch@numeric@authors
   \patchcmd{\@maketitle}
     {\includegraphics[width=\linewidth]{cup-logo-new}}
-    {\journalnamefont\upshape\normalsize\bfseries cambridge.org}
+    {\journalnamefont\upshape\normalsize\bfseries www.hailiangedu.com}
     {}{}
   \patchcmd{\@maketitle}
-    {\textbf{www.cambridge.org}}
+    {\textbf{www.hailiangedu.com}}
     {\includegraphics[width=\linewidth]{cup-logo-new}}
     {}{}
   \renewcommand{\email}[2][]{%

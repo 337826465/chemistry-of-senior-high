@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.19)  4 JUL 2023 18:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.19)  18 JUL 2023 23:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1656,6 +1656,11 @@ Package fontspec Info: Font family 'MicrosoftYaHei(0)' created for font
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
 (Font)              scaled to size 10.53937pt on input line 28.
+
+
+LaTeX Font Warning: Font shape `TU/MicrosoftYaHei(0)/m/it' undefined
+(Font)              using `TU/MicrosoftYaHei(0)/m/n' instead on input line 28.
+
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 10.53937pt on input line 28.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
@@ -1666,7 +1671,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 7.52812pt on input line 28.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 7.52812pt on input line 28.
- (d:/texlive/2023/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+(d:/texlive/2023/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Modern Roman (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+zeur on input line 28.
@@ -1705,7 +1710,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 9.03374pt on input line 35.
 Package mdframed Info: Not enough space on this page on input line 35.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/it' will be
-(Font)              scaled to size 10.53937pt on input line 45.
+(Font)              scaled to size 10.53937pt on input line 46.
 
 Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
 (fontspec)             doesn't exist).
@@ -1736,19 +1741,19 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 
 
 LaTeX Font Warning: Font shape `TU/fbb-TLF/m/it' undefined
-(Font)              using `TU/fbb-TLF/m/n' instead on input line 63.
+(Font)              using `TU/fbb-TLF/m/n' instead on input line 64.
 
 File: Classification.png Graphic file (type bmp)
 <Classification.png>
 File: oxide.png Graphic file (type bmp)
 <oxide.png>
 
-Overfull \hbox (1.26324pt too wide) in paragraph at lines 98--99
+Overfull \hbox (1.26324pt too wide) in paragraph at lines 99--100
 \TU/fbb-TLF/m/it/10.53937 por incididunt ut labore et dolore magna aliqua. Lorem
  []
 
 
-Overfull \hbox (5.62657pt too wide) in paragraph at lines 98--99
+Overfull \hbox (5.62657pt too wide) in paragraph at lines 99--100
 \TU/fbb-TLF/m/it/10.53937 do eiusmod tempor incididunt ut labore et dolore magna
  []
 
@@ -1762,17 +1767,17 @@ File: example-image-16x10.pdf Graphic file (type pdf)
 File: example-image-16x10.pdf Graphic file (type pdf)
 <use example-image-16x10.pdf>
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 173.
+(Font)              scaled to size 5.0pt on input line 174.
 
-Overfull \hbox (1.7059pt too wide) in paragraph at lines 197--198
+Overfull \hbox (1.7059pt too wide) in paragraph at lines 198--199
 \TU/fbb-TLF/m/it/10.53937 grants from the <funder-name> <doi> (<award ID>);
  []
 
-(./sample.ent)
+[3] (./sample.ent)
 
-LaTeX Warning: Empty bibliography on input line 212.
+LaTeX Warning: Empty bibliography on input line 213.
 
-[3] [4
+[4
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1789,11 +1794,11 @@ Package logreq Info: Writing requests to 'sample.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40138 strings out of 476683
- 865363 string characters out of 5807575
- 2106567 words of memory out of 5000000
- 59652 multiletter control sequences out of 15000+600000
- 521545 words of font info for 121 fonts, out of 8000000 for 9000
+ 40150 strings out of 476683
+ 866172 string characters out of 5807575
+ 2105548 words of memory out of 5000000
+ 59665 multiletter control sequences out of 15000+600000
+ 521537 words of font info for 120 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  103i,16n,131p,744b,4037s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
