@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.19)  4 JUL 2023 17:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.19)  4 JUL 2023 18:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"f:/Github Project/chemistry-of-senior-high/first edition/sample"
-(f:/Github Project/chemistry-of-senior-high/first edition/sample.tex
+**sample
+(./sample.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./cup-journal.cls
 Document Class: cup-journal 2023/05/02 v1.3 Submission to CUP journals
@@ -1443,7 +1443,7 @@ LaTeX Font Warning: Font shape `TU/fbb-TLF/m/n' undefined
 LaTeX Warning: Unused global option(s):
     [journal=large,manuscript=物质及其变化,year=2020,volume=37].
 
-No file sample.aux.
+(./sample.aux)
 \openout1 = `sample.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -1464,7 +1464,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 28.
-(d:/texlive/2023/texmf-dist/tex/latex/ly1/ly1ptm.fd
+ (d:/texlive/2023/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 28.
@@ -1688,25 +1688,22 @@ LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 7.0pt on input line 28.
-No file sample.toc.
+(./sample.toc
+
+LaTeX Font Warning: Font shape `TU/fbb-TLF/b/n' undefined
+(Font)              using `TU/fbb-TLF/m/n' instead on input line 1.
+
+)
 \tf@toc=\write6
 \openout6 = `sample.toc'.
 
-[1
+ [1
 
 ]
 Package mdframed Info: mdframed works in twoside mode on input line 33.
-
-
-LaTeX Font Warning: Font shape `TU/fbb-TLF/b/n' undefined
-(Font)              using `TU/fbb-TLF/m/n' instead on input line 35.
-
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
 (Font)              scaled to size 9.03374pt on input line 35.
 Package mdframed Info: Not enough space on this page on input line 35.
-
-LaTeX Warning: Reference `mdf@pagelabel-1' on page 2 undefined on input line 35.
-
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/it' will be
 (Font)              scaled to size 10.53937pt on input line 45.
 
@@ -1737,6 +1734,7 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
+
 LaTeX Font Warning: Font shape `TU/fbb-TLF/m/it' undefined
 (Font)              using `TU/fbb-TLF/m/n' instead on input line 63.
 
@@ -1758,3 +1756,45 @@ Overfull \hbox (5.62657pt too wide) in paragraph at lines 98--99
 
 [2
 
+]
+File: example-image-16x10.pdf Graphic file (type pdf)
+<use example-image-16x10.pdf>
+File: example-image-16x10.pdf Graphic file (type pdf)
+<use example-image-16x10.pdf>
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 173.
+
+Overfull \hbox (1.7059pt too wide) in paragraph at lines 197--198
+\TU/fbb-TLF/m/it/10.53937 grants from the <funder-name> <doi> (<award ID>);
+ []
+
+(./sample.ent)
+
+LaTeX Warning: Empty bibliography on input line 212.
+
+[3] [4
+
+] 
+enddocument/afterlastpage: lastpage setting LastPage.
+(./sample.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.41063pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package logreq Info: Writing requests to 'sample.run.xml'.
+\openout1 = `sample.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 40138 strings out of 476683
+ 865363 string characters out of 5807575
+ 2106567 words of memory out of 5000000
+ 59652 multiletter control sequences out of 15000+600000
+ 521545 words of font info for 121 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 103i,16n,131p,744b,4037s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on sample.pdf (4 pages).
